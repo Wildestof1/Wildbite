@@ -498,6 +498,7 @@
       - id: SawImprov
       - id: HydroponicsToolMiniHoe
       - id: ClothingHandsKnuckleDusters
+      - id: Hammer #Ratbite
 
 - type: entity
   name: Maint Loot Spawner
