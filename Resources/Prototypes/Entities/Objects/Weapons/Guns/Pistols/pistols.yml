@@ -317,10 +317,8 @@
     sprite: Objects/Weapons/Guns/Pistols/mk58.rsi
   - type: Gun
     fireRate: 5
-    burstFireRate: 6 #Ratbite
     availableModes:
     - SemiAuto
-    - Burst #Ratbite
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/mk58.ogg
   - type: FiringPin #Ratbite, mindshield restriction system
