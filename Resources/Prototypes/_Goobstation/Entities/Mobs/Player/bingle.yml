@@ -103,6 +103,7 @@
     - Bingle
     understands:
     - TauCetiBasic
+    - Bingle
   # - type: ReplacementAccent
   #   accent: bingle
   - type: CollectiveMind
