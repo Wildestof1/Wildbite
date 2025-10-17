@@ -102,7 +102,6 @@
     speaks:
     - Bingle
     understands:
-    - TauCetiBasic
     - Bingle
   # - type: ReplacementAccent
   #   accent: bingle
