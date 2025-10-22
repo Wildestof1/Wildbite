@@ -1198,6 +1198,12 @@
           type: Rat
         - !type:OrganType
           type: Plant
+<<<<<<< HEAD
+      - !type:Oxygenate
+        factor: 8
+        conditions:
+=======
+>>>>>>> 8ca79452a6 (Cybernetic Organs (#3335))
         - !type:OrganType
           type: Cybernetic # Woundmed - Cybernetic Organs
       # Convert Pluox into CO2.
@@ -1240,7 +1246,15 @@
           type: Rat
         - !type:OrganType
           type: Plant
+<<<<<<< HEAD
+      - !type:Oxygenate
         factor: 8
+        conditions:
+        - !type:OrganType
+          type: Cybernetic
+=======
+        factor: 8
+>>>>>>> 8ca79452a6 (Cybernetic Organs (#3335))
       # Convert Pluoxium into CO2.
       - !type:ModifyLungGas
         conditions:
